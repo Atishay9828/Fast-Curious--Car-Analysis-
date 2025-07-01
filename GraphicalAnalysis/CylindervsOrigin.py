@@ -2,15 +2,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def get_cylinder_vs_origin():
+def get_cylinder_vs_origin(A,dict1,dict2):
+
     C = []
     D = []
-    A = pd.read_csv('cars.csv' , sep = ';' , skiprows = [1] )
+
     Country = A['Origin'].unique()
     Cylinders = A['Cylinders'].unique()
     US = []
     EU = []
     JA = []
+
     for x in Country :
         B = len(A[ A['Origin'] == x ])
         C.append(B)
@@ -37,12 +39,14 @@ def get_cylinder_vs_origin():
     plt.ylabel('Quantity Made',fontdict = dict2)
     plt.grid(color = 'k',linestyle = (0, (3, 10, 1, 10)))
     plt.legend(['US'])
+
     plt.subplot(3,1,2)
     plt.bar(Cylinders , EU ,label = 'Europe',color = 'b',linestyle = '-.',linewidth = 1,edgecolor = 'k')
     plt.xlabel('Number of Cylinders',fontdict = dict1)
     plt.ylabel('Quantity Made',fontdict = dict2)
     plt.grid(color = 'k',linestyle = (0, (3, 10, 1, 10)))
     plt.legend(['Europe'],loc = 'upper left')
+
     plt.subplot(3,1,3)
     plt.subplots_adjust(bottom = 0.11,top = 0.95,wspace = 0.37,hspace = 0.51)
     plt.bar(Cylinders , JA , label = 'Japan',color = 'k',linestyle = '-.',linewidth = 1,edgecolor = 'k')
@@ -50,7 +54,7 @@ def get_cylinder_vs_origin():
     plt.ylabel('Quantity Made',fontdict = dict2)
     plt.grid(color = 'k',linestyle = (0, (3, 10, 1, 10)))
     plt.legend(['Japan'],loc = 'upper left')
-    manager = plt.get_current_fig_manager()
-    manager.window.state('zoomed')
 
+
+    plt.tight_layout()
     plt.show()
