@@ -1,0 +1,408 @@
+,Car,Model,Origin
+0,STRING,INT,CAT
+1,Chevrolet Chevelle Malibu,70,US
+2,Buick Skylark 320,70,US
+3,Plymouth Satellite,70,US
+4,AMC Rebel SST,70,US
+5,Ford Torino,70,US
+6,Ford Galaxie 500,70,US
+7,Chevrolet Impala,70,US
+8,Plymouth Fury iii,70,US
+9,Pontiac Catalina,70,US
+10,AMC Ambassador DPL,70,US
+11,Citroen DS-21 Pallas,70,Europe
+12,Chevrolet Chevelle Concours (sw),70,US
+13,Ford Torino (sw),70,US
+14,Plymouth Satellite (sw),70,US
+15,AMC Rebel SST (sw),70,US
+16,Dodge Challenger SE,70,US
+17,Plymouth 'Cuda 340,70,US
+18,Ford Mustang Boss 302,70,US
+19,Chevrolet Monte Carlo,70,US
+20,Buick Estate Wagon (sw),70,US
+21,Toyota Corolla Mark ii,70,Japan
+22,Plymouth Duster,70,US
+23,AMC Hornet,70,US
+24,Ford Maverick,70,US
+25,Datsun PL510,70,Japan
+26,Volkswagen 1131 Deluxe Sedan,70,Europe
+27,Peugeot 504,70,Europe
+28,Audi 100 LS,70,Europe
+29,Saab 99e,70,Europe
+30,BMW 2002,70,Europe
+31,AMC Gremlin,70,US
+32,Ford F250,70,US
+33,Chevy C20,70,US
+34,Dodge D200,70,US
+35,Hi 1200D,70,US
+36,Datsun PL510,71,Japan
+37,Chevrolet Vega 2300,71,US
+38,Toyota Corolla,71,Japan
+39,Ford Pinto,71,US
+40,Volkswagen Super Beetle 117,71,Europe
+41,AMC Gremlin,71,US
+42,Plymouth Satellite Custom,71,US
+43,Chevrolet Chevelle Malibu,71,US
+44,Ford Torino 500,71,US
+45,AMC Matador,71,US
+46,Chevrolet Impala,71,US
+47,Pontiac Catalina Brougham,71,US
+48,Ford Galaxie 500,71,US
+49,Plymouth Fury iii,71,US
+50,Dodge Monaco (sw),71,US
+51,Ford Country Squire (sw),71,US
+52,Pontiac Safari (sw),71,US
+53,AMC Hornet Sportabout (sw),71,US
+54,Chevrolet Vega (sw),71,US
+55,Pontiac Firebird,71,US
+56,Ford Mustang,71,US
+57,Mercury Capri 2000,71,US
+58,Opel 1900,71,Europe
+59,Peugeot 304,71,Europe
+60,Fiat 124B,71,Europe
+61,Toyota Corolla 1200,71,Japan
+62,Datsun 1200,71,Japan
+63,Volkswagen Model 111,71,Europe
+64,Plymouth Cricket,71,US
+65,Toyota Corolla Hardtop,72,Japan
+66,Dodge Colt Hardtop,72,US
+67,Volkswagen Type 3,72,Europe
+68,Chevrolet Vega,72,US
+69,Ford Pinto Runabout,72,US
+70,Chevrolet Impala,72,US
+71,Pontiac Catalina,72,US
+72,Plymouth Fury III,72,US
+73,Ford Galaxie 500,72,US
+74,AMC Ambassador SST,72,US
+75,Mercury Marquis,72,US
+76,Buick LeSabre Custom,72,US
+77,Oldsmobile Delta 88 Royale,72,US
+78,Chrysler Newport Royal,72,US
+79,Mazda RX2 Coupe,72,Japan
+80,AMC Matador (sw),72,US
+81,Chevrolet Chevelle Concours (sw),72,US
+82,Ford Gran Torino (sw),72,US
+83,Plymouth Satellite Custom (sw),72,US
+84,Volvo 145e (sw),72,Europe
+85,Volkswagen 411 (sw),72,Europe
+86,Peugeot 504 (sw),72,Europe
+87,Renault 12 (sw),72,Europe
+88,Ford Pinto (sw),72,US
+89,Datsun 510 (sw),72,Japan
+90,Toyota Corolla Mark II (sw),72,Japan
+91,Dodge Colt (sw),72,US
+92,Toyota Corolla 1600 (sw),72,Japan
+93,Buick Century 350,73,US
+94,AMC Matador,73,US
+95,Chevrolet Malibu,73,US
+96,Ford Gran Torino,73,US
+97,Dodge Coronet Custom,73,US
+98,Mercury Marquis Brougham,73,US
+99,Chevrolet Caprice Classic,73,US
+100,Ford LTD,73,US
+101,Plymouth Fury Gran Sedan,73,US
+102,Chrysler New Yorker Brougham,73,US
+103,Buick Electra 225 Custom,73,US
+104,AMC Ambassador Brougham,73,US
+105,Plymouth Valiant,73,US
+106,Chevrolet Nova Custom,73,US
+107,AMC Hornet,73,US
+108,Ford Maverick,73,US
+109,Plymouth Duster,73,US
+110,Volkswagen Super Beetle,73,Europe
+111,Chevrolet Impala,73,US
+112,Ford Country,73,US
+113,Plymouth Custom Suburb,73,US
+114,Oldsmobile Vista Cruiser,73,US
+115,AMC Gremlin,73,US
+116,Toyota Camry,73,Japan
+117,Chevrolet Vega,73,US
+118,Datsun 610,73,Japan
+119,Mazda RX3,73,Japan
+120,Ford Pinto,73,US
+121,Mercury Capri v6,73,US
+122,Fiat 124 Sport Coupe,73,Europe
+123,Chevrolet Monte Carlo S,73,US
+124,Pontiac Grand Prix,73,US
+125,Fiat 128,73,Europe
+126,Opel Manta,73,Europe
+127,Audi 100LS,73,Europe
+128,Volvo 144ea,73,Europe
+129,Dodge Dart Custom,73,US
+130,Saab 99le,73,Europe
+131,Toyota Mark II,73,Japan
+132,Oldsmobile Omega,73,US
+133,Plymouth Duster,74,US
+134,Ford Maverick,74,US
+135,AMC Hornet,74,US
+136,Chevrolet Nova,74,US
+137,Datsun B210,74,Japan
+138,Ford Pinto,74,US
+139,Toyota Corolla 1200,74,Japan
+140,Chevrolet Vega,74,US
+141,Chevrolet Chevelle Malibu Classic,74,US
+142,AMC Matador,74,US
+143,Plymouth Satellite Sebring,74,US
+144,Ford Gran Torino,74,US
+145,Buick Century Luxus (sw),74,US
+146,Dodge Coronet Custom (sw),74,US
+147,Ford Gran Torino (sw),74,US
+148,AMC Matador (sw),74,US
+149,Audi Fox,74,Europe
+150,Volkswagen Dasher,74,Europe
+151,Opel Manta,74,Europe
+152,Toyota Corolla,74,Japan
+153,Datsun 710,74,Japan
+154,Dodge Colt,74,US
+155,Fiat 128,74,Europe
+156,Fiat 124 TC,74,Europe
+157,Honda Civic,74,Japan
+158,Subaru,74,Japan
+159,Fiat x1.9,74,Europe
+160,Plymouth Valiant Custom,75,US
+161,Chevrolet Nova,75,US
+162,Mercury Monarch,75,US
+163,Ford Maverick,75,US
+164,Pontiac Catalina,75,US
+165,Chevrolet Bel Air,75,US
+166,Plymouth Grand Fury,75,US
+167,Ford LTD,75,US
+168,Buick Century,75,US
+169,Chevrolete Chevelle Malibu,75,US
+170,AMC Matador,75,US
+171,Plymouth Fury,75,US
+172,Buick Skyhawk,75,US
+173,Chevrolet Monza 2+2,75,US
+174,Ford Mustang II,75,US
+175,Toyota Corolla,75,Japan
+176,Ford Pinto,75,US
+177,AMC Gremlin,75,US
+178,Pontiac Astro,75,US
+179,Toyota Corolla,75,Japan
+180,Volkswagen Dasher,75,Europe
+181,Datsun 710,75,Japan
+182,Ford Pinto,75,US
+183,Volkswagen Rabbit,75,Europe
+184,AMC Pacer,75,US
+185,Audi 100LS,75,Europe
+186,Peugeot 504,75,Europe
+187,Volvo 244DL,75,Europe
+188,Saab 99LE,75,Europe
+189,Honda Civic CVCC,75,Japan
+190,Fiat 131,76,Europe
+191,Opel 1900,76,Europe
+192,Capri ii,76,US
+193,Dodge Colt,76,US
+194,Renault 12tl,76,Europe
+195,Chevrolet Chevelle Malibu Classic,76,US
+196,Dodge Coronet Brougham,76,US
+197,AMC Matador,76,US
+198,Ford Gran Torino,76,US
+199,Plymouth Valiant,76,US
+200,Chevrolet Nova,76,US
+201,Ford Maverick,76,US
+202,AMC Hornet,76,US
+203,Chevrolet Chevette,76,US
+204,Chevrolet Woody,76,US
+205,Volkswagen Rabbit,76,Europe
+206,Honda Civic,76,Japan
+207,Dodge Aspen SE,76,US
+208,Ford Grenada ghia,76,US
+209,Pontiac Ventura SJ,76,US
+210,AMC Pacer d/l,76,US
+211,Volkswagen Rabbit,76,Europe
+212,Datsun B-210,76,Japan
+213,Toyota Corolla,76,Japan
+214,Ford Pinto,76,US
+215,Volvo 245,76,Europe
+216,Plymouth Volare Premier v8,76,US
+217,Peugeot 504,76,Europe
+218,Toyota Mark II,76,Japan
+219,Mercedes-Benz 280s,76,Europe
+220,Cadillac Seville,76,US
+221,Chevrolet C10,76,US
+222,Ford F108,76,US
+223,Dodge D100,76,US
+224,Honda Accord CVCC,77,Japan
+225,Buick Opel Isuzu Deluxe,77,US
+226,Renault 5 GTL,77,Europe
+227,Plymouth Arrow GS,77,US
+228,Datsun F-10 Hatchback,77,Japan
+229,Chevrolet Caprice Classic,77,US
+230,Oldsmobile Cutlass Supreme,77,US
+231,Dodge Monaco Brougham,77,US
+232,Mercury Cougar Brougham,77,US
+233,Chevrolet Concours,77,US
+234,Buick Skylark,77,US
+235,Plymouth Volare Custom,77,US
+236,Ford Grenada,77,US
+237,Pontiac Grand Prix LJ,77,US
+238,Chevrolet Monte Carlo Landau,77,US
+239,Chrysler Cordoba,77,US
+240,Ford Thunderbird,77,US
+241,Volkswagen Rabbit Custom,77,Europe
+242,Pontiac Sunbird Coupe,77,US
+243,Toyota Corolla Liftback,77,Japan
+244,Ford Mustang II 2+2,77,US
+245,Chevrolet Chevette,77,US
+246,Dodge Colt m/m,77,US
+247,Subaru DL,77,Japan
+248,Volkswagen Dasher,77,Europe
+249,Datsun 810,77,Japan
+250,BMW 320i,77,Europe
+251,Mazda RX-4,77,Japan
+252,Volkswagen Rabbit Custom Diesel,78,Europe
+253,Ford Fiesta,78,US
+254,Mazda GLC Deluxe,78,Japan
+255,Datsun B210 GX,78,Japan
+256,Honda Civic CVCC,78,Japan
+257,Oldsmobile Cutlass Salon Brougham,78,US
+258,Dodge Diplomat,78,US
+259,Mercury Monarch ghia,78,US
+260,Pontiac Phoenix LJ,78,US
+261,Chevrolet Malibu,78,US
+262,Ford Fairmont (auto),78,US
+263,Ford Fairmont (man),78,US
+264,Plymouth Volare,78,US
+265,AMC Concord,78,US
+266,Buick Century Special,78,US
+267,Mercury Zephyr,78,US
+268,Dodge Aspen,78,US
+269,AMC Concord d/l,78,US
+270,Chevrolet Monte Carlo Landau,78,US
+271,Buick Regal Sport Coupe (turbo),78,US
+272,Ford Futura,78,US
+273,Dodge Magnum XE,78,US
+274,Chevrolet Chevette,78,US
+275,Toyota Corolla,78,Japan
+276,Datsun 510,78,Japan
+277,Dodge Omni,78,US
+278,Toyota Celica GT Liftback,78,Japan
+279,Plymouth Sapporo,78,US
+280,Oldsmobile Starfire SX,78,US
+281,Datsun 200-SX,78,Japan
+282,Audi 5000,78,Europe
+283,Volvo 264gl,78,Europe
+284,Saab 99gle,78,Europe
+285,Peugeot 604sl,78,Europe
+286,Volkswagen Scirocco,78,Europe
+287,Honda Accord LX,78,Japan
+288,Pontiac Lemans V6,79,US
+289,Mercury Zephyr 6,79,US
+290,Ford Fairmont 4,79,US
+291,AMC Concord DL 6,79,US
+292,Dodge Aspen 6,79,US
+293,Chevrolet Caprice Classic,79,US
+294,Ford LTD Landau,79,US
+295,Mercury Grand Marquis,79,US
+296,Dodge St. Regis,79,US
+297,Buick Estate Wagon (sw),79,US
+298,Ford Country Squire (sw),79,US
+299,Chevrolet Malibu Classic (sw),79,US
+300,Chrysler Lebaron Town @ Country (sw),79,US
+301,Volkswagen Rabbit Custom,79,Europe
+302,Mazda GLC Deluxe,79,Japan
+303,Dodge Colt Hatchback Custom,79,US
+304,AMC Spirit DL,79,US
+305,Mercedes Benz 300d,79,Europe
+306,Cadillac Eldorado,79,US
+307,Peugeot 504,79,Europe
+308,Oldsmobile Cutlass Salon Brougham,79,US
+309,Plymouth Horizon,79,US
+310,Plymouth Horizon TC3,79,US
+311,Datsun 210,79,Japan
+312,Fiat Strada Custom,79,Europe
+313,Buick Skylark Limited,79,US
+314,Chevrolet Citation,79,US
+315,Oldsmobile Omega Brougham,79,US
+316,Pontiac Phoenix,79,US
+317,Volkswagen Rabbit,80,Europe
+318,Toyota Corolla Tercel,80,Japan
+319,Chevrolet Chevette,80,US
+320,Datsun 310,80,Japan
+321,Chevrolet Citation,80,US
+322,Ford Fairmont,80,US
+323,AMC Concord,80,US
+324,Dodge Aspen,80,US
+325,Audi 4000,80,Europe
+326,Toyota Corolla Liftback,80,Japan
+327,Mazda 626,80,Japan
+328,Datsun 510 Hatchback,80,Japan
+329,Toyota Corolla,80,Japan
+330,Mazda GLC,80,Japan
+331,Dodge Colt,80,US
+332,Datsun 210,80,Japan
+333,Volkswagen Rabbit C (Diesel),80,Europe
+334,Volkswagen Dasher (diesel),80,Europe
+335,Audi 5000s (diesel),80,Europe
+336,Mercedes-Benz 240d,80,Europe
+337,Honda Civic 1500 gl,80,Japan
+338,Renault Lecar Deluxe,80,Europe
+339,Subaru DL,80,Japan
+340,Volkswagen Rabbit,80,Europe
+341,Datsun 280-ZX,80,Japan
+342,Mazda RX-7 GS,80,Japan
+343,Triumph TR7 Coupe,80,Europe
+344,Ford Mustang Cobra,80,US
+345,Honda Accord,80,Japan
+346,Plymouth Reliant,81,US
+347,Buick Skylark,81,US
+348,Dodge Aries Wagon (sw),81,US
+349,Chevrolet Citation,81,US
+350,Plymouth Reliant,81,US
+351,Toyota Starlet,81,Japan
+352,Plymouth Champ,81,US
+353,Honda Civic 1300,81,Japan
+354,Subaru,81,Japan
+355,Datsun 210 MPG,81,Japan
+356,Toyota Tercel,81,Japan
+357,Mazda GLC 4,81,Japan
+358,Plymouth Horizon 4,81,US
+359,Ford Escort 4W,81,US
+360,Ford Escort 2H,81,US
+361,Volkswagen Jetta,81,Europe
+362,Renault 18i,81,Europe
+363,Honda Prelude,81,Japan
+364,Toyota Corolla,81,Japan
+365,Datsun 200SX,81,Japan
+366,Mazda 626,81,Japan
+367,Peugeot 505s Turbo Diesel,81,Europe
+368,Saab 900s,81,Europe
+369,Volvo Diesel,81,Europe
+370,Toyota Cressida,81,Japan
+371,Datsun 810 Maxima,81,Japan
+372,Buick Century,81,US
+373,Oldsmobile Cutlass LS,81,US
+374,Ford Grenada gl,81,US
+375,Chrysler Lebaron Salon,81,US
+376,Chevrolet Cavalier,82,US
+377,Chevrolet Cavalier Wagon,82,US
+378,Chevrolet Cavalier 2-door,82,US
+379,Pontiac J2000 SE Hatchback,82,US
+380,Dodge Aries SE,82,US
+381,Pontiac Phoenix,82,US
+382,Ford Fairmont Futura,82,US
+383,AMC Concord DL,82,US
+384,Volkswagen Rabbit l,82,Europe
+385,Mazda GLC Custom l,82,Japan
+386,Mazda GLC Custom,82,Japan
+387,Plymouth Horizon Miser,82,US
+388,Mercury Lynx l,82,US
+389,Nissan Stanza XE,82,Japan
+390,Honda Accord,82,Japan
+391,Toyota Corolla,82,Japan
+392,Honda Civic,82,Japan
+393,Honda Civic (auto),82,Japan
+394,Datsun 310 GX,82,Japan
+395,Buick Century Limited,82,US
+396,Oldsmobile Cutlass Ciera (diesel),82,US
+397,Chrysler Lebaron Medallion,82,US
+398,Ford Grenada l,82,US
+399,Toyota Celica GT,82,Japan
+400,Dodge Charger 2.2,82,US
+401,Chevrolet Camaro,82,US
+402,Ford Mustang GL,82,US
+403,Volkswagen Pickup,82,Europe
+404,Dodge Rampage,82,US
+405,Ford Ranger,82,US
+406,Chevy S-10,82,US
